@@ -9,4 +9,5 @@ Aplicação para aprimorar os estudos em Javascript
 
 
 # Sobre a Calculadora.
+
 O objetivo da Calculadora é mostrar é a utilização da factory function desenvolvida no curso de JS.
