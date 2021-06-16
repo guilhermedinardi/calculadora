@@ -9,5 +9,6 @@ Aplicação para aprimorar os estudos em Javascript
 
 
 # Sobre a Calculadora.
+<img src="https://github.com/guilhermedinardi/calculadora/blob/main/assets/img/calculator.png">
 
-O objetivo da Calculadora é mostrar é a utilização da factory function desenvolvida no curso de JS.
+O objetivo da Calculadora é mostrar é a utilização da function constructor desenvolvida no curso de JS.
